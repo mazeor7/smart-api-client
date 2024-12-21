@@ -1,0 +1,37 @@
+{
+  "name": "smart-api-client",
+  "version": "1.0.0",
+  "description": "A powerful and flexible HTTP client for Node.js, designed to simplify API requests with advanced features such as authentication, caching, retry mechanisms, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mazeor7/smart-api-client"
+  },
+  "keywords": [
+    "http",
+    "https",
+    "http client",
+    "request",
+    "api",
+    "API",
+    "API client",
+    "authentication",
+    "caching",
+    "logging",
+    "client",
+    "api-client",
+    "http-client",
+    "https-client",
+    "http-request",
+    "https-request"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-cache": "^5.1.2",
+    "ws": "^8.18.0"
+  }
+}
