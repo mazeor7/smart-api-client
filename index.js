@@ -1,7 +1,7 @@
 // middleware
 const auth = require('./src/middleware/auth');
 const compression = require('./src/middleware/compression');
-const interceptors = require('./src/srcmiddleware/interceptors');
+const interceptors = require('./src/middleware/interceptors');
 const logging = require('./src/middleware/logging');
 const rateLimit = require('./src/middleware/rateLimit');
 const validation = require('./src/middleware/validation');
