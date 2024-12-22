@@ -33,5 +33,8 @@
   "dependencies": {
     "node-cache": "^5.1.2",
     "ws": "^8.18.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2"
   }
 }
